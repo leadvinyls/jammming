@@ -1,0 +1,18 @@
+.icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    color: #F1F1F1;
+
+    svg {
+        height: 100%;
+        width: auto;
+        object-fit: contain;
+        aspect-ratio: 1 / 1;
+    }
+}
+
+.MagnifyingGlass {
+    opacity: 50%;
+}
