@@ -14,8 +14,8 @@
   font-size: 2rem;
   color: white;
 
-  h4 {
-    i {
+  .h4 {
+    .i {
       font-style: normal;
       color: blueviolet;
     }

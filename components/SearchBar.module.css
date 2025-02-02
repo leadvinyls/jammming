@@ -5,8 +5,8 @@
     justify-content: start;
     align-items: center;
 
-    form {
-        label {
+    .form {
+        .label {
             background-color: #0a0a0a;
             border-radius: 1rem;
             padding: 0rem 1rem;
@@ -16,7 +16,7 @@
             justify-content: start;
             height: max-content;
 
-            input {
+            .input {
                 background: transparent;
                 outline: none;
                 border: none;
@@ -26,8 +26,6 @@
                 padding: 1rem 0rem;
                 color: #F1F1F1;
             }
-
-            
         }
     }
 }
