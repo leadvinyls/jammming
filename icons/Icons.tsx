@@ -1,3 +1,4 @@
+'use client';
 import styles from './Icons.module.css';
 
 export default function MagnifyingGlass() {
